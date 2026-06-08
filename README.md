@@ -28,6 +28,16 @@ The objective is to identify factors contributing to employee attrition and prov
 
 ## Analysis Performed
 
+## Executive Summary Dashboard
+
+![Executive Summary](screenshots/Executive_Summary.png)
+
+
+## Employee Insights Dashboard
+
+![Employee Insights](screenshots/Employee_Insights.png)
+
+
 ### Executive Summary
 
 - Employee Attrition by Department
